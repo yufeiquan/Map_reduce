@@ -1,3 +1,4 @@
+author: Yufei Quan / Dingty
 This file provides some additional information about how this map/reduce framework could run
 and how the framework's initial setup can be configured.
 
