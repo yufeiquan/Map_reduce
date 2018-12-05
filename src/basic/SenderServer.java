@@ -26,7 +26,7 @@ import basic.util.WorkerStorage;
 
 /** This class is used as writing partial shuffle results during the shuffle routine 
  * 
- * @author Dingty
+ * @author Dingty / Yufei Quan
  *
  */
 public class SenderServer implements Callable<WorkerInfo> {
